@@ -46,7 +46,7 @@ public class TestBaseClass {
 
 	public static WebDriver driver;
 	public static Properties prop;
-	public static HashMap<String, String> loginMap = new HashMap<>();
+	public static HashMap<String, String> loginMap = new HashMap<String, String>();
 	static String testfile;
 	public static ExtentTest fptest;
 	public static SoftAssert softAssert = new SoftAssert();
