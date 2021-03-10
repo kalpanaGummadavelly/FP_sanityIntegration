@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="14" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1038928" started-at="2021-03-09T13:57:24 MST" finished-at="2021-03-09T14:14:42 MST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1038928" started-at="2021-03-09T13:57:24 MST" finished-at="2021-03-09T14:14:42 MST">
+      <class name="com.qa.testCases.FPSanityTestCasesTest">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startReport" is-config="true" duration-ms="269" started-at="2021-03-09T13:57:24 MST" finished-at="2021-03-09T13:57:24 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="5" started-at="2021-03-09T13:57:25 MST" finished-at="2021-03-09T13:57:25 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.familyCreatePlanTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="12709" started-at="2021-03-09T13:57:25 MST" finished-at="2021-03-09T13:57:38 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="familyCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="familyCreatePlanTest" duration-ms="113500" started-at="2021-03-09T13:57:38 MST" data-provider="planData" finished-at="2021-03-09T13:59:31 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[new2020@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1980]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Best Health]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[66]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[jointly]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[magi]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[1982]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Good Health]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[64]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[plan_g]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[Comfortable]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[Comfortable]]>
+              </value>
+            </param>
+            <param index="39">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="40">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="41">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- familyCreatePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="863" started-at="2021-03-09T13:59:31 MST" finished-at="2021-03-09T13:59:32 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="3" started-at="2021-03-09T13:59:32 MST" finished-at="2021-03-09T13:59:32 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=familyCreatePlanTest status=SUCCESS method=FPSanityTestCasesTest.familyCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="3" started-at="2021-03-09T13:59:32 MST" finished-at="2021-03-09T13:59:32 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.indCreatePlanTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="12103" started-at="2021-03-09T13:59:32 MST" finished-at="2021-03-09T13:59:44 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="indCreatePlanTest" duration-ms="88081" started-at="2021-03-09T13:59:44 MST" data-provider="planData1" finished-at="2021-03-09T14:01:12 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1988]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Best Health]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[68]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[65]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[Individual]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Comfortable]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//body[1]/div[21]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]"}
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-OHFHP3OK', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\dheer\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56267}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a727a79cd81d43bcba7013d05bc29bf
+*** Element info: {Using=xpath, value=//body[1]/div[21]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//body[1]/div[21]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]"}
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-OHFHP3OK', ip: '192.168.1.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\dheer\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56267}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a727a79cd81d43bcba7013d05bc29bf
+*** Element info: {Using=xpath, value=//body[1]/div[21]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy11.getText(Unknown Source)
+at com.qa.pages.MedicareBundlesPage.primaryABD(MedicareBundlesPage.java:49)
+at com.qa.testCases.FPSanityTestCasesTest.indCreatePlanTest(FPSanityTestCasesTest.java:143)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:584)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:172)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:804)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:145)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:770)
+at org.testng.TestRunner.run(TestRunner.java:591)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:402)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:396)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:355)
+at org.testng.SuiteRunner.run(SuiteRunner.java:304)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1180)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1102)
+at org.testng.TestNG.runSuites(TestNG.java:1032)
+at org.testng.TestNG.run(TestNG.java:1000)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indCreatePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="796" started-at="2021-03-09T14:01:12 MST" finished-at="2021-03-09T14:01:13 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="5" started-at="2021-03-09T14:01:13 MST" finished-at="2021-03-09T14:01:13 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=indCreatePlanTest status=FAILURE method=FPSanityTestCasesTest.indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="1" started-at="2021-03-09T14:01:13 MST" finished-at="2021-03-09T14:01:13 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.indCreatePlanTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="12957" started-at="2021-03-09T14:01:13 MST" finished-at="2021-03-09T14:01:26 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="indCreatePlanTest" duration-ms="71480" started-at="2021-03-09T14:01:26 MST" data-provider="planData1" finished-at="2021-03-09T14:02:38 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1980]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Best Health]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[102]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[64]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[jointly]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Comfortable]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indCreatePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="790" started-at="2021-03-09T14:02:38 MST" finished-at="2021-03-09T14:02:38 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="0" started-at="2021-03-09T14:02:38 MST" finished-at="2021-03-09T14:02:38 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=indCreatePlanTest status=SUCCESS method=FPSanityTestCasesTest.indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="0" started-at="2021-03-09T14:02:38 MST" finished-at="2021-03-09T14:02:38 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.indCreatePlanTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="11965" started-at="2021-03-09T14:02:38 MST" finished-at="2021-03-09T14:02:50 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="indCreatePlanTest" duration-ms="76062" started-at="2021-03-09T14:02:50 MST" data-provider="planData1" finished-at="2021-03-09T14:04:06 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1980]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Best Health]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[77]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[68]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[jointly]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[plan_g]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Comfortable]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indCreatePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="791" started-at="2021-03-09T14:04:06 MST" finished-at="2021-03-09T14:04:07 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="0" started-at="2021-03-09T14:04:07 MST" finished-at="2021-03-09T14:04:07 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=indCreatePlanTest status=SUCCESS method=FPSanityTestCasesTest.indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="0" started-at="2021-03-09T14:04:07 MST" finished-at="2021-03-09T14:04:07 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.indCreatePlanTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="9318" started-at="2021-03-09T14:04:07 MST" finished-at="2021-03-09T14:04:17 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="indCreatePlanTest" duration-ms="82337" started-at="2021-03-09T14:04:17 MST" data-provider="planData1" finished-at="2021-03-09T14:05:39 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1980]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Best Health]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[99]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[70]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[80112]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[jointly]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[plan_g]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[Comfortable]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indCreatePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="807" started-at="2021-03-09T14:05:39 MST" finished-at="2021-03-09T14:05:40 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="0" started-at="2021-03-09T14:05:40 MST" finished-at="2021-03-09T14:05:40 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=indCreatePlanTest status=SUCCESS method=FPSanityTestCasesTest.indCreatePlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="1" started-at="2021-03-09T14:05:40 MST" finished-at="2021-03-09T14:05:40 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.primaryEditPlanTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="10046" started-at="2021-03-09T14:05:40 MST" finished-at="2021-03-09T14:05:50 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="primaryEditPlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="primaryEditPlanTest" duration-ms="82926" started-at="2021-03-09T14:05:50 MST" data-provider="primaryEditPlanData" finished-at="2021-03-09T14:07:13 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[62]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primaryEditPlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="814" started-at="2021-03-09T14:07:13 MST" finished-at="2021-03-09T14:07:14 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="1" started-at="2021-03-09T14:07:14 MST" finished-at="2021-03-09T14:07:14 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=primaryEditPlanTest status=SUCCESS method=FPSanityTestCasesTest.primaryEditPlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="10914" started-at="2021-03-09T14:07:14 MST" finished-at="2021-03-09T14:07:25 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="0" started-at="2021-03-09T14:07:14 MST" finished-at="2021-03-09T14:07:14 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.familyEditPlanTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="familyEditPlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="familyEditPlanTest" duration-ms="111131" started-at="2021-03-09T14:07:25 MST" data-provider="familyEditPlanData" finished-at="2021-03-09T14:09:16 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[new2020@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[62]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[63]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- familyEditPlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="741" started-at="2021-03-09T14:09:16 MST" finished-at="2021-03-09T14:09:16 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="0" started-at="2021-03-09T14:09:16 MST" finished-at="2021-03-09T14:09:16 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=familyEditPlanTest status=SUCCESS method=FPSanityTestCasesTest.familyEditPlanTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="1" started-at="2021-03-09T14:09:16 MST" finished-at="2021-03-09T14:09:16 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.primaryViewPlanTest(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="10288" started-at="2021-03-09T14:09:16 MST" finished-at="2021-03-09T14:09:27 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="primaryViewPlanTest(java.lang.String, java.lang.String)[pri:4, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="primaryViewPlanTest" duration-ms="53213" started-at="2021-03-09T14:09:27 MST" data-provider="viewPlanData" finished-at="2021-03-09T14:10:20 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primaryViewPlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="720" started-at="2021-03-09T14:10:20 MST" finished-at="2021-03-09T14:10:21 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="1" started-at="2021-03-09T14:10:21 MST" finished-at="2021-03-09T14:10:21 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=primaryViewPlanTest status=SUCCESS method=FPSanityTestCasesTest.primaryViewPlanTest(java.lang.String, java.lang.String)[pri:4, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="1" started-at="2021-03-09T14:10:21 MST" finished-at="2021-03-09T14:10:21 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.familyViewPlanTest(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="11349" started-at="2021-03-09T14:10:21 MST" finished-at="2021-03-09T14:10:32 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="familyViewPlanTest(java.lang.String, java.lang.String)[pri:5, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="familyViewPlanTest" duration-ms="82261" started-at="2021-03-09T14:10:32 MST" data-provider="familyViewPlanData" finished-at="2021-03-09T14:11:54 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[new2020@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- familyViewPlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="867" started-at="2021-03-09T14:11:54 MST" finished-at="2021-03-09T14:11:55 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="0" started-at="2021-03-09T14:11:55 MST" finished-at="2021-03-09T14:11:55 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=familyViewPlanTest status=SUCCESS method=FPSanityTestCasesTest.familyViewPlanTest(java.lang.String, java.lang.String)[pri:5, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="0" started-at="2021-03-09T14:11:55 MST" finished-at="2021-03-09T14:11:55 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.reportBuilderTest(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="12396" started-at="2021-03-09T14:11:55 MST" finished-at="2021-03-09T14:12:08 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="reportBuilderTest(java.lang.String, java.lang.String)[pri:6, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="reportBuilderTest" duration-ms="48735" started-at="2021-03-09T14:12:08 MST" data-provider="reportBuilder" finished-at="2021-03-09T14:12:57 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBuilderTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="839" started-at="2021-03-09T14:12:57 MST" finished-at="2021-03-09T14:12:57 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="1" started-at="2021-03-09T14:12:57 MST" finished-at="2021-03-09T14:12:57 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=reportBuilderTest status=SUCCESS method=FPSanityTestCasesTest.reportBuilderTest(java.lang.String, java.lang.String)[pri:6, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="5" started-at="2021-03-09T14:12:57 MST" finished-at="2021-03-09T14:12:57 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.comparePlanTest(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="11553" started-at="2021-03-09T14:12:57 MST" finished-at="2021-03-09T14:13:09 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="comparePlanTest(java.lang.String, java.lang.String)[pri:7, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="comparePlanTest" duration-ms="15924" started-at="2021-03-09T14:13:09 MST" data-provider="comparePlan" finished-at="2021-03-09T14:13:25 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="780" started-at="2021-03-09T14:13:25 MST" finished-at="2021-03-09T14:13:26 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="0" started-at="2021-03-09T14:13:26 MST" finished-at="2021-03-09T14:13:26 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=comparePlanTest status=SUCCESS method=FPSanityTestCasesTest.comparePlanTest(java.lang.String, java.lang.String)[pri:7, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="0" started-at="2021-03-09T14:13:26 MST" finished-at="2021-03-09T14:13:26 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.deletePlanTest(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="10644" started-at="2021-03-09T14:13:26 MST" finished-at="2021-03-09T14:13:36 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletePlanTest(java.lang.String, java.lang.String)[pri:8, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="deletePlanTest" duration-ms="14322" started-at="2021-03-09T14:13:36 MST" data-provider="deletePlanData" finished-at="2021-03-09T14:13:51 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="765" started-at="2021-03-09T14:13:51 MST" finished-at="2021-03-09T14:13:52 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="1" started-at="2021-03-09T14:13:52 MST" finished-at="2021-03-09T14:13:52 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deletePlanTest status=SUCCESS method=FPSanityTestCasesTest.deletePlanTest(java.lang.String, java.lang.String)[pri:8, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="1" started-at="2021-03-09T14:13:52 MST" finished-at="2021-03-09T14:13:52 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.deletePlanTest(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="10133" started-at="2021-03-09T14:13:52 MST" finished-at="2021-03-09T14:14:02 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletePlanTest(java.lang.String, java.lang.String)[pri:8, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="deletePlanTest" duration-ms="14457" started-at="2021-03-09T14:14:02 MST" data-provider="deletePlanData" finished-at="2021-03-09T14:14:16 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="781" started-at="2021-03-09T14:14:16 MST" finished-at="2021-03-09T14:14:17 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="1" started-at="2021-03-09T14:14:17 MST" finished-at="2021-03-09T14:14:17 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deletePlanTest status=SUCCESS method=FPSanityTestCasesTest.deletePlanTest(java.lang.String, java.lang.String)[pri:8, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="startTest(java.lang.reflect.Method)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="startTest" is-config="true" duration-ms="0" started-at="2021-03-09T14:14:17 MST" finished-at="2021-03-09T14:14:17 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.testCases.FPSanityTestCasesTest.deletePlanTest(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="setUp" is-config="true" duration-ms="9383" started-at="2021-03-09T14:14:17 MST" finished-at="2021-03-09T14:14:26 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletePlanTest(java.lang.String, java.lang.String)[pri:8, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="deletePlanTest" duration-ms="14474" started-at="2021-03-09T14:14:26 MST" data-provider="deletePlanData" finished-at="2021-03-09T14:14:41 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[newind2021@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePlanTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="tearDown" is-config="true" duration-ms="768" started-at="2021-03-09T14:14:41 MST" finished-at="2021-03-09T14:14:42 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="getResult" is-config="true" duration-ms="0" started-at="2021-03-09T14:14:42 MST" finished-at="2021-03-09T14:14:42 MST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=deletePlanTest status=SUCCESS method=FPSanityTestCasesTest.deletePlanTest(java.lang.String, java.lang.String)[pri:8, instance:com.qa.testCases.FPSanityTestCasesTest@71623278] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.qa.testCases.FPSanityTestCasesTest@71623278]" name="endReport" is-config="true" duration-ms="952" started-at="2021-03-09T14:14:42 MST" finished-at="2021-03-09T14:14:42 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.qa.testCases.FPSanityTestCasesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
